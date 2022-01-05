@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:opacity="opaque">
+
+    <item android:drawable="@color/splash_background"/>
+
+    <item
+            android:gravity="center"
+            android:width="128dp"
+            android:height="128dp"
+            android:drawable="@drawable/ic_baseline_connect_without_contact_24">
+    </item>
+
+</layer-list>
