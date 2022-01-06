@@ -3,15 +3,10 @@ package com.example.bv_connect
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 
-import android.graphics.PorterDuff
-import android.util.Log
-import android.*
 import android.app.TaskStackBuilder
 import android.content.Intent
 import android.view.MenuItem
-import android.widget.Toast
-import androidx.core.content.ContextCompat
-import kotlinx.android.synthetic.main.*
+import com.example.bv_connect.club.ui.MainActivity
 import kotlinx.android.synthetic.main.activity_main.*
 
 
@@ -58,7 +53,7 @@ class MainActivity : AppCompatActivity() {
         stationaryImageView.setOnClickListener {
             TaskStackBuilder.create(this)
                 .addNextIntentWithParentStack(Intent(this, SplashActivity::class.java))
-                .addNextIntent(Intent(this, ClubActivity::class.java))
+                .addNextIntent(Intent(this, MainActivity::class.java))
                 .startActivities()
         }
 

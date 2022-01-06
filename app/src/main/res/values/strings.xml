@@ -1,5 +1,10 @@
 <resources>
     <string name="app_name">Material Intro</string>
+    <string name="desc">Add description for your note ..</string>
+    <string name="tag">work</string>
+    <string name="save_note">Save Note</string>
+    <string name="title">Title</string>
+    <string name="color">Color</string>
     <string name="check_to_pass">I accept terms and conditions.</string>
     <string name="error_message">Please accept terms and conditions first.</string>
     <string name="launch_intro_activity">Launch intro activity</string>
