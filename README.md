@@ -12,7 +12,7 @@ This problem has further exceeded during the tough times of COVID when students 
 Our project BV_Connect hence, can play a vital role in task amanagement and note making by the students through our easy and user friendly application which further is tending to implement connectivity platform for the students of Banasthali University that can help as a on stop platform to buy/sell second hand items, communicate with seniors/alumni, chat within themselves on relevent topics and gain knowledge about recent clubs' activities going around in the campus or even virtually in remote locations. This application currently allows the student to sign up or sign in using university credentials which then further are utilized by different features.  The 
 project's scope is to extend and add four chat rooms which will play the seperate roles of four features - Club Notice Board, Alumni Connect, Buy/Sell,Ask & Answer.
 
-<img width="559" alt="sampleimages" src="https://github.com/Ananyaas/BV_Connect/blob/master/Screenshot%20(373).png">
+<img width="559" alt="sampleimages" src="https://github.com/Ananyaas/BV_Connect/blob/master/Screenshot%20(379).png">
     	  	
 <b> Functionality & Concepts used : </b>
 
