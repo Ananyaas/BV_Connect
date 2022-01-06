@@ -25,7 +25,7 @@ project's scope is to extend and add four chat rooms which will play the seperat
 
 <b> Application Link & Future Scope : </b>
 
-The app is currently in the build phase with Banasthali Vidyapith with a limited no. of users, You can access the app : [https://github.com/Ananyaas/BV_Connect]
+The app is currently in the development phase with Banasthali Vidyapith with a limited no. of users, You can access the app : [https://github.com/Ananyaas/BV_Connect]
 
 Once the app is fully built and functional in Banasthali Vidyapith, we aim to continue the planned utilization of service and expand it for different channels in the University. We aim to connect maximum number of students through this platform with secure and healthy interactivity service in coming years.
 
